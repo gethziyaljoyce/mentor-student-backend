@@ -1,3 +1,3 @@
 #  Mentor student Backend
 
-## [Click Here](https://joyce-mentor-student-frontend.netlify.app/) to view the deployed site.
+## [Click Here](https://mentor-student-backend.herokuapp.com/) to view the deployed site.
