@@ -8,7 +8,6 @@ const schema = {
   }),
   studentSchema: joi.object({
     name: joi.string().required(),
-    email: joi.string().required(),
     batch: joi.string().required(),
     mentorId: joi.string(),
   }),
